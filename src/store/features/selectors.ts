@@ -1,0 +1,1 @@
+export const data = (state: any) => state.api.data;
